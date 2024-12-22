@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-13
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 I've concluded the 2024 edition of the [Machine Learning Summer School (M2L)](https://www.m2lschool.org/past-editions/m2l-2024-italy) hosted by Google Deepmind
