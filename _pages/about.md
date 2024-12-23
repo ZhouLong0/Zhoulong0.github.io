@@ -19,10 +19,10 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm a last year Master student at Politecnico di Milano, Italy 🇮🇹 
 
-During my Master I've been a research intern at the [Center for Visual Computing lab](https://cvn.centralesupelec.fr), Université Paris-Saclay - CentraleSupeléc Woking with Prof.[Jean-Christophe Pesquet](http://scholar.google.fr/citations?user=0E9plnpntdkC&hl=en), Prof. [Ismail Ben Ayed](https://scholar.google.com/citations?user=29vyUccAAAAJ&hl=en) and Prof. [Mounir Kaaniche](https://scholar.google.com/citations?user=DL6mUl8AAAAJ&hl=en). 
+During my Master's I've been a research intern at the [Center for Visual Computing lab](https://cvn.centralesupelec.fr), Université Paris-Saclay - CentraleSupeléc supervised by Prof. [Jean-Christophe Pesquet](http://scholar.google.fr/citations?user=0E9plnpntdkC&hl=en) and worked closely with Prof. [Ismail Ben Ayed](https://scholar.google.com/citations?user=29vyUccAAAAJ&hl=en) and Prof. [Mounir Kaaniche](https://scholar.google.com/citations?user=DL6mUl8AAAAJ&hl=en).
 Previously, I received a bachelor's degree in Computer Science and Engineering from the University of Romatre with maximum grade in 2022.
 
-My research interests include Few-Shot Learning, Multimodal learning, Self-supervised Learning.
+My research interests include Few-Shot Learning, Vision-Language, Self-supervised Learning.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
