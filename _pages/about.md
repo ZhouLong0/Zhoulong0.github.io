@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Sc. Computer Science and Engineering - AI
+subtitle: M.Sc. Computer Science and Engineering - Artificial Intelligence
 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a last year Master student at Politecnico di Milano, Italy 🇮🇹 
+Hi there! I'm a last year Master student at Politecnico di Milano, Italy 🇮🇹 within the [Alliance4Tech](https://www.alliance4tech.eu) joint program in collaboration with TU Berlin and CentraleSupeléc
 
-During my Master's I've been a research intern at the [Center for Visual Computing lab](https://cvn.centralesupelec.fr), Université Paris-Saclay - CentraleSupeléc supervised by Prof. [Jean-Christophe Pesquet](http://scholar.google.fr/citations?user=0E9plnpntdkC&hl=en) and worked closely with Prof. [Ismail Ben Ayed](https://scholar.google.com/citations?user=29vyUccAAAAJ&hl=en) and Prof. [Mounir Kaaniche](https://scholar.google.com/citations?user=DL6mUl8AAAAJ&hl=en). I've been also selected for the [Alliance4Tech](https://www.alliance4tech.eu) joint master program between Polimi, Tu Berlin and CentraleSupeléc. Previously, I received a bachelor's degree in Computer Science and Engineering from the University of Romatre with maximum grade in 2022.
+During my Master's I've been a research intern at the [Center for Visual Computing lab](https://cvn.centralesupelec.fr), Université Paris-Saclay - CentraleSupeléc supervised by Prof. [Jean-Christophe Pesquet](http://scholar.google.fr/citations?user=0E9plnpntdkC&hl=en) and worked closely with Prof. [Ismail Ben Ayed](https://scholar.google.com/citations?user=29vyUccAAAAJ&hl=en) and Prof. [Mounir Kaaniche](https://scholar.google.com/citations?user=DL6mUl8AAAAJ&hl=en). Previously, I received a bachelor's degree in Computer Science and Engineering from the University of RomaTre with maximum grade in 2022.
 
 My research interests include Few-Shot Learning, Vision-Language, Self-supervised Learning.
 
