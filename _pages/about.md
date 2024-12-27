@@ -13,14 +13,13 @@ profile:
 
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 Hi there! I'm a last year Master student at Politecnico di Milano, Italy 🇮🇹 
 
-During my Master's I've been a research intern at the [Center for Visual Computing lab](https://cvn.centralesupelec.fr), Université Paris-Saclay - CentraleSupeléc supervised by Prof. [Jean-Christophe Pesquet](http://scholar.google.fr/citations?user=0E9plnpntdkC&hl=en) and worked closely with Prof. [Ismail Ben Ayed](https://scholar.google.com/citations?user=29vyUccAAAAJ&hl=en) and Prof. [Mounir Kaaniche](https://scholar.google.com/citations?user=DL6mUl8AAAAJ&hl=en).
-Previously, I received a bachelor's degree in Computer Science and Engineering from the University of Romatre with maximum grade in 2022.
+During my Master's I've been a research intern at the [Center for Visual Computing lab](https://cvn.centralesupelec.fr), Université Paris-Saclay - CentraleSupeléc supervised by Prof. [Jean-Christophe Pesquet](http://scholar.google.fr/citations?user=0E9plnpntdkC&hl=en) and worked closely with Prof. [Ismail Ben Ayed](https://scholar.google.com/citations?user=29vyUccAAAAJ&hl=en) and Prof. [Mounir Kaaniche](https://scholar.google.com/citations?user=DL6mUl8AAAAJ&hl=en). I've been also selected for the [Alliance4Tech](https://www.alliance4tech.eu) joint master program between Polimi, Tu Berlin and CentraleSupeléc. Previously, I received a bachelor's degree in Computer Science and Engineering from the University of Romatre with maximum grade in 2022.
 
 My research interests include Few-Shot Learning, Vision-Language, Self-supervised Learning.
 
