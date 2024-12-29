@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💬 I give a talk on "Transductive few-shot learning approach for the classification of histopathological slides" at the departmental seminar at [CVN](https://cvn.centralesupelec.fr) - Université Paris-Saclay.
+💬 I gave a talk on "Transductive few-shot learning approach for the classification of histopathological slides" at the departmental seminar at [CVN](https://cvn.centralesupelec.fr) - Université Paris-Saclay.
